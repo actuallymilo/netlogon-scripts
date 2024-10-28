@@ -1,2 +1,2 @@
 # netlogon-scripts
-Logon and logoff scripts I use in my Active Directory environment.
+I copy these scripts to a domain controller's NETLOGON share, create some WMI filters and GPOs, and call it a day.
